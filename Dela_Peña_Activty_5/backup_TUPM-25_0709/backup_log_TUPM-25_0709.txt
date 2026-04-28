@@ -1,0 +1,21 @@
+====================================
+Student ID: TUPM-25_0709
+Student Name: Adrian Elvyn L. Dela Peña
+Original File: intro.txt
+Timestamp: 20260428_201910
+File Size: 5 bytes
+Backup Path: C:\Users\ADRIAN\OneDrive\Desktop\Dela_Peña_Activty_5\backup_TUPM-25_0709\intro_TUPM-25_0709_20260428_201910.txt
+====================================
+Student ID: TUPM-25_0709
+Student Name: Adrian Elvyn L. Dela Peña
+Original File: intro.txt
+Timestamp: 20260428_201926
+File Size: 5 bytes
+Backup Path: C:\Users\ADRIAN\OneDrive\Desktop\Dela_Peña_Activty_5\backup_TUPM-25_0709\intro_TUPM-25_0709_20260428_201926.txt
+====================================
+Student ID: TUPM-25_0709
+Student Name: Adrian Elvyn L. Dela Peña
+Original File: intro.txt
+Timestamp: 20260428_202106
+File Size: 5 bytes
+Backup Path: C:\Users\ADRIAN\OneDrive\Desktop\Dela_Peña_Activty_5\backup_TUPM-25_0709\intro_TUPM-25_0709_20260428_202106.txt
